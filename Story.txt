@@ -19,6 +19,14 @@ asdfkjhakjdfhakjfhdklajsdhflkajdhfa
 adjhasdf
 adfhjkadf
 asdSS
+<<<<<<< HEAD
 
 
 jjjdjdjdjdjdjdjdjdjdjdjdjdjjdjdjdjdjdjdjdjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+=======
+hioaiadjasldkjfalkSS
+kkjasdjl;ljnlj
+kjf
+kjf;l
+lkjfgljlfk
+>>>>>>> solo
